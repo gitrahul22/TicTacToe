@@ -1,4 +1,4 @@
-This is a Just GAe developed using C language Fundamentals doesno uses the graphics header
+Tic Tac Toe Game developed using C language Fundamentals ,doesnot uses the graphics header
 
 
 HERE's how it looks
